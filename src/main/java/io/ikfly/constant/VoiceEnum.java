@@ -80,7 +80,7 @@ public enum VoiceEnum {
     en_US_MichelleNeural("en-US-MichelleNeural", "女", "en-US"),
     en_US_RogerNeural("en-US-RogerNeural", "男", "en-US"),
     en_US_SteffanNeural("en-US-SteffanNeural", "男", "en-US"),
-
+    vi-VN-NamMinhNeural("vi-VN-NamMinhNeural", "男", "vi-VN"),
     /*
     AZURE 语音库补充
     https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/language-support?tabs=tts
